@@ -1,4 +1,4 @@
-# crazy-minecraft
+# Crazy-Minecraft
 ## 这个网站简介
 这是一个为方便用户了解Crazy Minecraft的网站。
 _（网站仅提供中文，在之后可能会添加对英语的支持）_
