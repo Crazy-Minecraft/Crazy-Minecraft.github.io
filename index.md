@@ -1,2 +1,6 @@
-# Crazy-Minecraft
-This is the website which offers a Graphic  User Interface.
+# crazy-minecraft
+## 这个网站简介
+这是一个为方便用户了解Crazy Minecraft的网站。
+_（网站仅提供中文，在之后可能会添加对英语的支持）_
+
+## 网站并未搭建完成，敬请期待！
